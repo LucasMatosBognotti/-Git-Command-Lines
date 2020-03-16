@@ -10,15 +10,15 @@ https://git-scm.com/
 
 - [ ] Voce deseja criar pontos na historia da produção do seu projeto.
 
-    touch index.html
-    git add index.html
-    git commit -m "Criação do arquivo index.html"
+    .touch index.html
+    .git add index.html
+    .git commit -m "Criação do arquivo index.html"
 
-- [] Voce deseja verificar mudanças feitas no seu projeto.
+- [ ] Voce deseja verificar mudanças feitas no seu projeto.
 
     git log
 
-- [] Voce começa uma nova funcionalidade no seu projeto, sem estragar o que ja foi feito.
+- [ ] Voce começa uma nova funcionalidade no seu projeto, sem estragar o que ja foi feito.
 
     git branch feature/login
     git checkout feature/login
@@ -28,34 +28,34 @@ https://git-scm.com/
     git log
 
 
-- [] Voce adiciona as novas funcionalidade ao seu projeto em produção.
+- [ ] Voce adiciona as novas funcionalidade ao seu projeto em produção.
 
     git checkout master
     git merge feature/login
     git log
 
-- [] Voce que deletar a branch da nova funcionalidade, depois de aplicasr em seu projeto.
+- [ ] Voce que deletar a branch da nova funcionalidade, depois de aplicasr em seu projeto.
 
     git branch -D feature/login
 
-- [] Voce quer colocar seu projeto na nuvem.
+- [ ] Voce quer colocar seu projeto na nuvem.
 
     git remote add origin 'https://github.com/'......
     git push -u origin master
 
-- [] Voce vai pegar um projeto ja iniciado, para trabalhar com o time.
+- [ ] Voce vai pegar um projeto ja iniciado, para trabalhar com o time.
 
     git clone 'https://github.com'....
 
-- [] Antes de enviar a reslução, precisamos atualizar o projeto local.
+- [ ] Antes de enviar a reslução, precisamos atualizar o projeto local.
 
     git pull
 
-- [] Voce precisa voltar um arquivo para um determinado momento da linha do tempo
+- [ ] Voce precisa voltar um arquivo para um determinado momento da linha do tempo
 
     git checkout 'id do commit' -- 'nome do arquivo'
 
-- [] Voce presisa recuperar algo deletado
+- [ ] Voce presisa recuperar algo deletado
 
     git checkout 'id do commit' -- 'nome do arquivo'
 
