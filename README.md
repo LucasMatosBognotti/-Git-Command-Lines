@@ -40,7 +40,7 @@ https://git-scm.com/
 
 - [ ] Voce quer colocar seu projeto na nuvem.
 
-    .git remote add origin 'https://github.com/'......
+    .git remote add origin 'https://github.com/'...... \
     .git push -u origin master
 
 - [ ] Voce vai pegar um projeto ja iniciado, para trabalhar com o time.
