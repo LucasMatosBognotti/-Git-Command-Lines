@@ -59,6 +59,8 @@ https://git-scm.com/
 
     .git checkout 'id do commit' -- 'nome do arquivo'
 
+# Commands
+
 - `git init` // Inicia a linha do tempo
 - `git add` // Adiciona ou atualiza mudanças para irem a linha do tempo
 - `git commit` // Adiciona um ponto na linha do tempo
