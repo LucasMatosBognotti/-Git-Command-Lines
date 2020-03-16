@@ -16,7 +16,7 @@ https://git-scm.com/
 
 - [ ] Voce deseja verificar mudanças feitas no seu projeto.
 
-    .git log\
+    .git log
 
 - [ ] Voce começa uma nova funcionalidade no seu projeto, sem estragar o que ja foi feito.
 
@@ -36,28 +36,28 @@ https://git-scm.com/
 
 - [ ] Voce que deletar a branch da nova funcionalidade, depois de aplicasr em seu projeto.
 
-    .git branch -D feature/login\
+    .git branch -D feature/login
 
 - [ ] Voce quer colocar seu projeto na nuvem.
 
-    .git remote add origin 'https://github.com/'...... \
+    .git remote add origin 'https://github.com/'......
     .git push -u origin master
 
 - [ ] Voce vai pegar um projeto ja iniciado, para trabalhar com o time.
 
-    .git clone 'https://github.com'.... \
+    .git clone 'https://github.com'....
 
 - [ ] Antes de enviar a reslução, precisamos atualizar o projeto local.
 
-    .git pull\
+    .git pull
 
 - [ ] Voce precisa voltar um arquivo para um determinado momento da linha do tempo
 
-    .git checkout 'id do commit' -- 'nome do arquivo'\
+    .git checkout 'id do commit' -- 'nome do arquivo'
 
 - [ ] Voce presisa recuperar algo deletado
 
-    .git checkout 'id do commit' -- 'nome do arquivo'\
+    .git checkout 'id do commit' -- 'nome do arquivo'
 
 - `git init` // Inicia a linha do tempo
 - `git add` // Adiciona ou atualiza mudanças para irem a linha do tempo
