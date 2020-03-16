@@ -8,7 +8,7 @@ https://git-scm.com/
 
 ## Objective
 
-- [] Voce deseja criar pontos na historia da produção do seu projeto.
+- [ ] Voce deseja criar pontos na historia da produção do seu projeto.
 
     touch index.html
     git add index.html
